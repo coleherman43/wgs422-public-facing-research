@@ -12,3 +12,5 @@ tmp
 cache 
 env 
 _wfCache
+
+progressive_download.txt
