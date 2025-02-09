@@ -2,3 +2,13 @@
 *.rpymc
 cache/
 saves/
+
+log.txt
+errors.txt
+traceback.txt
+
+saves 
+tmp 
+cache 
+env 
+_wfCache
